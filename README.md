@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moawiz Bin Yamin
 
-🎓 Final-year Artificial Intelligence undergraduate at FAST NUCES, Islamabad, with a passion for solving real-world problems using Machine Learning, Deep Learning, and Computer Vision. I specialize in building multimodal AI systems and intelligent tools that combine text, image, and video data.
+🎓 Artificial Intelligence graduate from FAST NUCES, Islamabad, with a passion for solving real-world problems using Machine Learning, Deep Learning, and Computer Vision. I specialize in building multimodal AI systems and intelligent tools that combine text, image, and video data.
 
 ---
 
@@ -43,7 +43,6 @@ Produced engaging video content and promotional reels that helped boost national
 
 - **CycleGAN Image Synthesis** – Sketch-to-photo and synthetic face generation using GANs.
 
-- [And many more →](https://github.com/moawizbinyamin)
 
 ---
 
